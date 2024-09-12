@@ -23,6 +23,7 @@ public class ReguaRelacionamentoController {
 
     @PostMapping()
     public void executarReguaRelacionamento(@RequestBody IniciarReguaRelacionamentoDTO mensagem) {
+
         log.info("Iniciando procesamento  para {}", mensagem);
 
         MessageCorrelationBuilder messageCorrelationBuilder = runtimeService.createMessageCorrelation(MESSAGE_START);

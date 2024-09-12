@@ -20,4 +20,4 @@
 
   http://localhost:8080
   efernandes
-  !Q@W#e4r5t
+  MY_PASS_DEFAULT

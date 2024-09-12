@@ -15,7 +15,7 @@ public class IniciarReguaRelacionamentoDTO {
 
     @Getter
     @Setter
-    private int idCliente;
+    private int IdCliente;
 
     @Getter
     @Setter
