@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "83ba642f-9fce-4c32-bcaa-659e2631c2d9",
+		"name": "camunda-001-regua-relacionamento",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "555559",
+		"_collection_link": "https://lively-resonance-584537.postman.co/workspace/efernandes-tech~11dbab7d-5b01-4eea-a81c-c14c8226ec1d/collection/555559-83ba642f-9fce-4c32-bcaa-659e2631c2d9?action=share&source=collection_link&creator=555559"
+	},
+	"item": [
+		{
+			"name": "IniciarReguaRelacionamentoNoCamunda",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"idCliente\": 10,\r\n    \"email\": \"efernandes.tech@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/regua-relacionamento",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"regua-relacionamento"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

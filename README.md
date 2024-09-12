@@ -15,3 +15,9 @@
 - OpenJDK Microsoft
 
   https://www.microsoft.com/openjdk
+
+- Acesso:
+
+  http://localhost:8080
+  efernandes
+  !Q@W#e4r5t
