@@ -1,23 +1,26 @@
-# camunda-001-regua-relacionamento
+# 📌 Camunda - 001 - Régua de Relacionamento
 
-# Notes
+A proof of concept (PoC) using **Camunda BPM** to automate a **Régua de Relacionamento** (Customer Relationship Flow). This project demonstrates workflow automation with **Camunda 8**, managing customer interactions efficiently.
 
-- Camunda Modeler
+## 🚀 Technologies Used
 
-  https://camunda.com/download/modeler/
+- Camunda 8
+- Spring Boot
+- Java
+- Docker
+- PostgreSQL
 
-- Camunda Start
+## 🔧 Setup
 
-  https://start.camunda.com/
+```sh
+# Clone the repository
+git clone https://github.com/efernandes-tech/camunda-001-regua-relacionamento.git
+cd camunda-001-regua-relacionamento
 
-  ![Exemplo](./support/start-camunda-exemplo.png)
+# Start the application using Docker
+docker-compose up -d
+```
 
-- OpenJDK Microsoft
+## 👨‍💻 Author
 
-  https://www.microsoft.com/openjdk
-
-- Acesso:
-
-  http://localhost:8080
-  efernandes
-  MY_PASS_DEFAULT
+- **Éderson Fernandes** - [GitHub Profile](https://github.com/efernandes-tech)
