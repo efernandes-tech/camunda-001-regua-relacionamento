@@ -1,12 +1,12 @@
 # 📌 Camunda - 001 - Régua de Relacionamento
 
-A proof of concept (PoC) using **Camunda BPM** to automate a **Régua de Relacionamento** (Customer Relationship Flow). This project demonstrates workflow automation with **Camunda 8**, managing customer interactions efficiently.
+A proof of concept (PoC) using **Camunda BPM** to automate a **Régua de Relacionamento** (Customer Relationship Flow). This project demonstrates workflow automation with **Camunda**, managing customer interactions efficiently.
 
 ## 🚀 Technologies Used
 
-- Camunda 8
-- Spring Boot
+- Camunda
 - Java
+- Spring Boot
 - Docker
 - PostgreSQL
 
